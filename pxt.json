@@ -1,0 +1,32 @@
+{
+    "name": "Side Scroller",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.46",
+        "tag": "v1.3.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/1fe2a6dc6ca4e9757fc315bf6bec19e3f3b7e1f3",
+        "target": "1.3.46",
+        "pxt": "6.8.34",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
